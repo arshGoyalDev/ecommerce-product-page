@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://ecommerce-product-page-developingweb.vercel.app)
-- [Live Site URL](https://www.frontendmentor.io/solutions/ecommerce-product-page-73Tea_51F)
+- [Solution URL](https://www.frontendmentor.io/solutions/ecommerce-product-page-73Tea_51F)
+- [Live Site URL](https://ecommerce-product-page-developingweb.vercel.app)
 
 ## My process
 
