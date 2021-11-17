@@ -145,13 +145,13 @@ thumbnails.forEach(thumbnail => {
       x.classList.remove('active');
     }
     thumbnail.classList.add('active');
-    imgNumber = parseInt(thumbnail.id);
+    imgNumber = parseInt(thumbnail.getAttribute('data-thumbnail'));
   });
 })
 
 lightboxThumbnails.forEach(thumbnail => {
   thumbnail.addEventListener('click', () =>  {
-    imgNumber = parseInt(thumbnail.id);
+    imgNumber = parseInt(thumbnail.getAttribute('data-thumbnail'));
     document.getElementById(`input-${imgNumber}`).checked = true;
     thumbnailSlider(imgNumber);
   })
