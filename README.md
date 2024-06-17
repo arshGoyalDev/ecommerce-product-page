@@ -40,5 +40,5 @@ The prev btn and next btn still has a bug, I have to fix that.
 
 ## Author
 
-- Frontend Mentor - [Arsh Goyal](https://www.frontendmentor.io/profile/developingWeb)
-- Github - [@developingWeb](https://www.github.com/developingWeb)
+- Frontend Mentor - [arshGoyalDev](https://www.frontendmentor.io/profile/arshGoyalDev)
+- Github - [@arshGoyalDev](https://www.github.com/arshGoyalDev)
