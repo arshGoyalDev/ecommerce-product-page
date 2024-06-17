@@ -24,18 +24,9 @@ const cartContainer = document.querySelector('.cart')
 const cart = document.querySelector('.cart-container');
 const cartBtn = document.querySelector('.cart-btn');
 
-cartContainer.addEventListener('mouseover', () => {
-  cart.classList.add('cart-active');
-})
-
-cartContainer.addEventListener('mouseout', () => {
-  cart.classList.remove('cart-active');
-})
-
 cartBtn.addEventListener('click', () => {
   cart.classList.toggle('cart-active');
 });
-
 
 // add to cart
 
