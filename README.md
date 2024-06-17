@@ -16,12 +16,6 @@ Users should be able to:
 - Add items to the cart
 - View the cart and remove items from it
 
-
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/ecommerce-product-page-73Tea_51F)
-- [Live Site URL](https://ecommerce-product-page-developingweb.vercel.app)
-
 ## My process
 
 ### Built with
